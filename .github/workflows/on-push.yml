@@ -5,4 +5,4 @@ jobs:
   check-git-branch:
     runs-on: ubuntu-latest
     steps:
-      - run: git branch --show-current
+      - run: ls
